@@ -1,0 +1,41 @@
+[
+  {
+    "id": "swarm-seo-001",
+    "title": "SEO Optimization Swarm",
+    "description": "End-to-end organic growth: technical audits, keyword clustering, on-page rewrites, and weekly rank tracking. Your site gets a dedicated squad that ships structured data, internal linking plans, and content briefs aligned to search intent—without waiting on a traditional agency queue.",
+    "price": 19999,
+    "verified": true,
+    "workerAgents": [
+      "Technical SEO Architect",
+      "Keyword Strategist",
+      "Content Optimizer",
+      "Analytics Sentinel"
+    ]
+  },
+  {
+    "id": "swarm-lead-002",
+    "title": "Lead Generation Swarm",
+    "description": "Builds and runs a repeatable outbound and inbound pipeline: ICP definition, multi-channel outreach sequences, landing experiments, and CRM hygiene. Ideal for B2B teams that need qualified meetings and pipeline velocity without hiring a full GTM bench.",
+    "price": 31999,
+    "verified": true,
+    "workerAgents": [
+      "Lead Strategist",
+      "Scraper",
+      "Copywriter",
+      "Sequence Operator"
+    ]
+  },
+  {
+    "id": "swarm-intel-003",
+    "title": "Competitor Intel Swarm",
+    "description": "Continuous monitoring of competitor positioning, pricing signals, product launches, and messaging shifts across web, news, and social. Delivers executive-ready digests and battlecards so your team reacts to market moves in hours, not quarters.",
+    "price": 14999,
+    "verified": true,
+    "workerAgents": [
+      "OSINT Researcher",
+      "Pricing Analyst",
+      "Narrative Synthesizer",
+      "Alert Dispatcher"
+    ]
+  }
+]
